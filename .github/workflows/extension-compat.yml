@@ -45,7 +45,7 @@ on:
         description: 'Send Slack notification with results'
         required: false
         type: boolean
-        default: true
+        default: false
 
 permissions:
   contents: read
